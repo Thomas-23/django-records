@@ -1,0 +1,9 @@
+{
+  "FILENAME": "secrets.json",
+  "SECRET_KEY": "@51u)^7e^*90mphzgmte_l8o4tmb0vvmx#-nv64^+5za@s4j0_",
+  "DATABASE_HOST": "127.0.0.1",
+  "DATABASE_NAME": "jiayuan",
+  "DATABASE_USER": "tools",
+  "DATABASE_PASSWORD": "jiayuan",
+  "DATABASE_PORT": "3306"
+}
